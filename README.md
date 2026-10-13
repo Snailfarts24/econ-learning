@@ -21,7 +21,7 @@ How it works:
 - **Hint ladder.** If you're stuck, Claude climbs one rung at a time: a narrower question, then the name of the concept, then an analogy from a different setting, and the full answer only if you ask for it.
 - **Consolidation.** After you settle a decision, Claude names the concept and compares your reasoning with the standard approach.
 - **Concepts log.** In Claude Code, concepts you struggled with are saved to `~/.claude/econ-learning/concepts.md`. Claude checks you on them again when they come up in later sessions.
-- **Handoff.** Claude writes code only after you've settled the reasoning. It works alongside the companion `econ-data-pipeline` skill for implementation checks if you have it installed.
+- **Handoff.** Claude writes code only after you've settled the reasoning. It works alongside the companion [econ-data-pipeline](https://github.com/Snailfarts24/econ-data-pipeline) skill for implementation checks if you have it installed.
 
 ## Installation
 
